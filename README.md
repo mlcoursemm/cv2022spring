@@ -28,7 +28,7 @@
 * Обратная связь - по почте mlcoursemm@gmail.com
 * Ну и всегда можно написать в [issues](https://github.com/mlcoursemm/cv2022spring/issues) :)
 ## <a name="marks" /> Результаты выполнения заданий
-* [Итоговая таблица с результатами]()
+* [Итоговая таблица с результатами](https://docs.google.com/spreadsheets/d/1icpWOvLMEADZWRYmvX1UKytk9l_c_VqZYCb-VGEXlEk/edit?usp=sharing)
 ## <a name="program" /> Программа курса 
 | Номер         | Дата          | Лекция                                            | Семинар                                 | ДЗ            |
 | ------------- | ------------- | -------------                                     | -------------                           | ------------- |
